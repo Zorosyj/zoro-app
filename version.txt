@@ -1,3 +1,3 @@
-2.0.0
+2.0.1
 https://github.com/Zorosyj/zoro-app/releases/latest/download/Zorosyj-Optimiseur.exe
-8b658886a1fc38444cd71e06b2e4fbda66d0c1124ccfea54fe71cf29ec1d6a64
+d37978256d3f2251cc23ab8359befac10f5dff6b7b6f77a85cf498f6919d4fc3
